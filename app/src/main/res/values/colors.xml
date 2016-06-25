@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBluePrimary">#192db1</color>
+    <color name="colorPrimary">#b11947</color>
+    <color name="colorPrimaryDark">#7e082c</color>
+    <color name="colorPrimaryLight">#ffa1be</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbarBackground">#FA0E10</color>
+    <color name="toolbarTextColor">#FFFFFF</color>
+    <color name="tablbarColor">#F4F4F4</color>
+    <color name="text_tab_selected">#000000</color>
+    <color name="text_tab_unselected">#939393</color>
+    <color name="loginentry_backgroundColor">#F7F7F7</color>
+    <color name="loginbutton_backgroundColor">#32A734</color>
+    <color name="forgotPassword_TextColor">#656565</color>
+    <color name="ColorPrimary">#F4F4F4</color>
+    <color name="ColorPrimaryDark">#F4F4F4</color>
+    <color name="tabsScrollColor">#32A734</color>
+    <color name="tabbarcolor_Home">#FA0E10</color>
+    <color name="tabbarcolor_HomeCategories">#FFFFFF</color>
+    <color name="tabsScrollColor_Home">#FA0E10</color>
+    <color name="tabsScrollColor_HomeCategories">#FBC000</color>
+
+    <color name="transparent_color">#00000000</color>
+
+
+    <color name="default_circle_indicator_color">#FFDDDDDD</color>
+    <color name="default_indicator_selected_color">#FBC000</color>
+
+
+    <color name="primary">#b11947</color>
+    <color name="statusBarColor">#5b1026</color>
+    <color name="primarydark">#FA0E10</color>
+
+
+</resources>
